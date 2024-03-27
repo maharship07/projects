@@ -1,0 +1,10 @@
+testBlankName():
+Ensures that when the user is starting the game and choosing a configuration, they cannot empty a blank name. 
+This test fulfills a requirement for M2 and ensures that the user cannot play a game without a name. This test
+works by looking seeing if a new screen is loaded when the user inputs a blank name.
+
+testWhiteSpaceName():
+Ensures that when the user starts a game and chooses a configuration, they cannot use a name of variable lengths
+of blank space. This test fulfills a requirement of M2 and works by inputting whitespace strings to the input
+at different difficulties. If a new screen is loaded, specifically the game screen, then the test fails
+

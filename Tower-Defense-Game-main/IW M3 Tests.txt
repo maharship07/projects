@@ -1,0 +1,9 @@
+testDifficultyDisplay():
+Tests whether the text on the Configuration screen displays the currently selected difficulty. The tests checks the text display for each of the three difficulties.
+This test ensures the app fulfills one of the requirements of M2, such that the player is able to see the difficulty that they have chosen before they are locked into it.
+It also ensures the player is able to select a different difficulty after making a selection but before starting the game.
+
+TestNotEnoughMoney():
+Tests whether the player's money is correctly checked when attempting to buy a tower by trying to buy a tower that costs more than the player's current money amount.
+The money after the attempted purchase is checked against an expected value to see if the purchase took place.
+This test ensures the app meets the requirement that "Towers should not be able to be bought with insufficient funds".

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tower Defense</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="easy">Easy</string>
+    <string name="start_game">Start Game</string>
+    <string name="current_difficulty_normal">Current Difficulty: Normal</string>
+    <string name="game_map">Game Map</string>
+    <string name="health">Health:</string>
+    <string name="player_monument">Player Monument</string>
+    <string name="starting_money">Starting Money: 150</string>
+    <string name="money">Money:</string>
+    <string name="error_text">Enter Player Name</string>
+    <string name="test">test</string>
+    <string name="price1">Price: $</string>
+    <string name="price2">Price: $</string>
+    <string name="price3">Price: $</string>
+    <string name="game_over_text">GAME OVER</string>
+    <string name="game_win">YOU WON!!!</string>
+    <string name="textview">Click restart to return to title screen</string>
+    <string name="win_text">Click quit to exit the game</string>
+    <string name="restart">Restart</string>
+    <string name="quit">Quit</string>
+</resources>

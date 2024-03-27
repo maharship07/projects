@@ -1,0 +1,9 @@
+testHardConfig():
+Ensures that when the user starts the game by having the hard difficulty, the starting money and
+health reflect accordingly. This test makes sure both values are correct.
+This test also makes sure the keyboard closes after entering the name and the corresponding button
+of difficulty to reflect changes relating to hard difficulty.
+
+testNormalName():
+Ensures that when the user starts the game by having any configuration, they input the "normal-looking"
+name. This test also makes sure the keyboard closes after entering the name.

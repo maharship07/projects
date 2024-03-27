@@ -1,0 +1,39 @@
+Manu Gupta:
+    testEnemyLocationSetter():
+         This method tests whether setting an enemy's location updates properly. It does this by instantiating an example enemy (enemy1) and calling it's 
+         setter methods accordingly.
+
+    testEnemyHealth():
+        This method tests whether damaging an enemy works. It takes Enemy2 as an example which has a health of 20 and applies a damage of 10 on the enemy.
+
+Maharshi Patel:
+    testDamageToMonument():
+        This method tests if the enemy damages the monument when it has certain health, the health for enemy should change accordingly. This can be used
+        when we don't have specific health as well.
+
+    testRestartButton():
+        This method tests if enemy damage leads to restart screen. If so, it should also result in game start screen with the flag of true.
+
+Vedant Amin:
+    testGameOverScreen():
+        This method tests if enemy damage leads to health equal 0 and if that happens, you should switch to game over screen.
+
+    testMonumentHealth():
+        This method tests whether damaging monument with enemy damage will lead to monument health equal to 0.
+Ian Westcott:
+    testAttackMethod():
+	This method tests whether the attack method subtracts health from player correctly. This is important as the enemy must be able to damage
+	the player upon reaching the end of the screen.
+
+    testEnemyAddition():
+	This method tests the addition of the correct type of enemies to the enemy array upon addEnemy() call. This is important as it ensures that all 3
+	enemies can be added to the enemy array once combat has started, and it makes sure that enemies are actually added during a combat wave.
+
+Terry Ma:
+    testEnemyInitPosition():
+        This method tests whether the enemies spawned start at the beginning of the path. Tnsert mode: escape to normal and savehis is done by using an internal representat        :ion of x and y coordinates at which the enemies must spawn.
+
+    testSetHealth():
+        This method tests whether the setter for health works. It does this by setting the health of the enemy to a high value and seeing what happens in terms of numerical instability. 
+
+
