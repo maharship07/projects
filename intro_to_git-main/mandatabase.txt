@@ -1,0 +1,110 @@
+MKDIR(1)                                           User Commands                                          MKDIR(1)
+
+
+
+NAME
+       mkdir - make directories
+
+SYNOPSIS
+       mkdir [OPTION]... DIRECTORY...
+
+LS(1)                                              User Commands                                             LS(1)
+
+
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+LS(1)                                              User Commands                                             LS(1)
+
+
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+CAT(1)                                             User Commands                                            CAT(1)
+
+
+
+NAME
+       cat - concatenate files and print on the standard output
+
+SYNOPSIS
+       cat [OPTION]... [FILE]...
+
+CHMOD(1)                                           User Commands                                          CHMOD(1)
+
+
+
+NAME
+       chmod - change file mode bits
+
+SYNOPSIS
+       chmod [OPTION]... MODE[,MODE]... FILE...
+       chmod [OPTION]... OCTAL-MODE FILE...
+GAWK(1)                                          Utility Commands                                          GAWK(1)
+
+
+
+NAME
+       gawk - pattern scanning and processing language
+
+SYNOPSIS
+       gawk [ POSIX or GNU style options ] -f program-file [ -- ] file ...
+       gawk [ POSIX or GNU style options ] [ -- ] program-text file ...
+ECHO(1)                                            User Commands                                           ECHO(1)
+
+
+
+NAME
+       echo - display a line of text
+
+SYNOPSIS
+       echo [SHORT-OPTION]... [STRING]...
+       echo LONG-OPTION
+SED(1)                                             User Commands                                            SED(1)
+
+
+
+NAME
+       sed - stream editor for filtering and transforming text
+
+SYNOPSIS
+       sed [OPTION]... {script-only-if-no-other-script} [input-file]...
+
+WC(1)                                              User Commands                                             WC(1)
+
+
+
+NAME
+       wc - print newline, word, and byte counts for each file
+
+SYNOPSIS
+       wc [OPTION]... [FILE]...
+       wc [OPTION]... --files0-from=F
+GREP(1)                                       General Commands Manual                                      GREP(1)
+
+
+
+NAME
+       grep, egrep, fgrep - print lines matching a pattern
+
+SYNOPSIS
+       grep [OPTIONS] PATTERN [FILE...]
+       grep [OPTIONS] [-e PATTERN | -f FILE] [FILE...]
+CUT(1)                                             User Commands                                            CUT(1)
+
+
+
+NAME
+       cut - remove sections from each line of files
+
+SYNOPSIS
+       cut OPTION... [FILE]...
+

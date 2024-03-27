@@ -1,0 +1,51 @@
+131  cd Lab2_P2/
+132  cd ~
+133  ls
+134  rm Lab2_P2/
+135  rmdir Lab2_P2/
+136  ls
+137  clear
+138  cd ~
+139  mkdir Lab02_P2
+140  rmdir Lab02_P2/
+141  clear
+142  cd ~
+143  mkdir Lab2_P2
+144  cd Lab2_P2/
+145  cp /home/frondel1/Public/RealEstate.csv .
+146  ls
+147  cat RealEstate.csv
+148  head -n 3 RealEstate.csv 
+149  wc RealEstate.csv 
+150  cat -n RealEstate.csv 
+151  mkdir public
+152  cp -r RealEstate.csv /home/mpatel185/public/myRealEstate.csv
+153  cp -r RealEstate.csv /home/mpatel185/public/myRealEstate.csv
+154  cp -r RealEstate.csv /home/mpatel185/Lab2_P2/myRealEstate.csv
+155  ls
+156  pwd
+157  ls /home/mpatel185/Lab2_P2/RealEstate.csv 
+158  cd public/
+159  mkdir -p public/{Regular,submission{lab2,lab3}}
+160  cd Lab2_P2/
+161  ls
+162  
+163  mkdir -p public/{Regular,submission{lab2,lab3}}
+164  ls
+165  mv Regular Others
+166  cd public
+167  ls
+168  mv Regular Others
+169  ls
+170  cp /Lab2_P2~/public/submission/lab2
+171  cp /Lab2_P2 ~/public/submission/lab2
+172  history
+173  cp /Lab2_P2 ~/public/submission/lab2
+174  cd Lab2_P2/
+175  cp Lab2_P2 ~/public/submission/lab2
+176  cp Lab2_P2~/public/submission/lab2
+177  rmdir Lab2_P2
+178  cd~
+179  cd ~
+180  rmdir Lab2_P2
+181  history
